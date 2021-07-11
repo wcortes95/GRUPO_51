@@ -12,7 +12,7 @@ public class Ejercicio04 {
          velocidad = sc.nextDouble();
          System.out.println(velocidad + " Km/h -> " + velocidad*1000/3600 + " m/s"); 
 
-         sc.close();
+         
     }
     
 }
